@@ -2,8 +2,8 @@
 
 # main menu
 [[main]]
-name = "Home"
-url = "/"
+name = "Blog"
+url = "/blog"
 weight = 1
 
 [[main]]
@@ -20,10 +20,6 @@ weight = 3
 weight = 4
 name = "Pages"
 
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
 
 [[main]]
 parent = "Pages"
